@@ -34,3 +34,9 @@ I've been learning to code Since 2017, I am very much fascinated by Python due t
 ### Socials
 
 <p align="left"> <a href="http://www.instagram.com/_ganesh3__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/p-ganesh-4554b41b9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/pg418048"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
